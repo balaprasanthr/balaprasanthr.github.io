@@ -45,8 +45,8 @@ Data Engineer with experience building and supporting Azure-based data pipelines
 ---
 
 ## Skills
-- **Languages:** Python (PySpark), SQL  
-- **Data:** Spark, ADLS, MSSQL, MySQL, Databricks SQL  
+- **Languages:** Python (PySpark), SQL 
+- **Data:** Spark, ADLS, MSSQL, MySQL, Databricks SQL, PySQL
 - **Tools:** Azure Databricks, ADF, Synapse, Power BI, Tableau  
 - **DevOps:** Git, CI/CD
 
