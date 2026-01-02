@@ -8,6 +8,8 @@ minimal_mistakes_skin: "air"
 
 author:
   name: "Balaprasanth Ramisetty"
+  avatar: ""   # optional later (put image URL)
+  location: "Alpharetta, GA"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -22,5 +24,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      toc: true
-      toc_sticky: true
+      toc: false
+
+markdown: kramdown
